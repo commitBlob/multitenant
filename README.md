@@ -1,4 +1,4 @@
-# Multitenant
+# Multi tenant
 
 ## Installation
 
@@ -16,7 +16,7 @@
 
     If this works there should be (venv) prefix in the terminal
 
-4. Install requiremenents.
+4. Install requirements.
     
     ```
     $ pip install -r requirements.txt
